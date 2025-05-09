@@ -8,6 +8,8 @@ Esta aplicación muestra cómo crear y gestionar ventanas transparentes utilizan
 
 ## 🖼 Imágenes
 
+![blurred-bg](https://github.com/user-attachments/assets/0e3f979b-e6b4-4c2d-8705-b20cd2215dc7)
+![unblurred-bg](https://github.com/user-attachments/assets/a4d986f2-ea4f-4233-8b2a-ef29d87bfe09)
 
 ## ❗ Requisitos
 
