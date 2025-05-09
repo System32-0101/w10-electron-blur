@@ -1,0 +1,16 @@
+{
+  "name": "electron-transparent-window",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Systemm32",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "glasstron": "^0.1.1"
+  }
+}
