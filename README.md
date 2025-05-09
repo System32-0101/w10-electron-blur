@@ -20,8 +20,8 @@ Esta aplicación muestra cómo crear y gestionar ventanas transparentes utilizan
 ## 💿 Instalación
 
 ```bash
-git clone https://github.com/System32-0101/w10-electron-blurred-windows
-cd w10-electron-blurred-windows
+git clone https://github.com/System32-0101/w10-electron-blur
+cd w10-electron-blur
 npm install
 ```
 
